@@ -1,3 +1,7 @@
 new file
+<<<<<<< HEAD
 
 You are so ugly
+=======
+sky is blue
+>>>>>>> fdc95b5432a9366cc96855b6e8d699f9096398a6
